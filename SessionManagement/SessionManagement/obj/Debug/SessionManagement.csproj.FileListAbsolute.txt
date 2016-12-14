@@ -1,4 +1,0 @@
-A:\Asp.net Projects\SessionManagement\SessionManagement\bin\SessionManagement.dll
-A:\Asp.net Projects\SessionManagement\SessionManagement\bin\SessionManagement.pdb
-A:\Asp.net Projects\SessionManagement\SessionManagement\obj\Debug\SessionManagement.dll
-A:\Asp.net Projects\SessionManagement\SessionManagement\obj\Debug\SessionManagement.pdb

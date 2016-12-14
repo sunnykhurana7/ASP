@@ -1,4 +1,0 @@
-A:\Asp.net Projects\Tushar_Website\Tushar_Website\bin\Tushar_Website.dll
-A:\Asp.net Projects\Tushar_Website\Tushar_Website\bin\Tushar_Website.pdb
-A:\Asp.net Projects\Tushar_Website\Tushar_Website\obj\Debug\Tushar_Website.dll
-A:\Asp.net Projects\Tushar_Website\Tushar_Website\obj\Debug\Tushar_Website.pdb

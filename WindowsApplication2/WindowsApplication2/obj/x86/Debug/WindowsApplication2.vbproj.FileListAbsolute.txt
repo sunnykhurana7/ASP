@@ -1,4 +1,0 @@
-A:\Asp.net Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
-A:\Asp.net Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
-A:\Asp.net Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
-A:\Asp.net Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config

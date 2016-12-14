@@ -1,4 +1,0 @@
-A:\Asp.net Projects\AuthenTication\AuthenTication\bin\AuthenTication.dll
-A:\Asp.net Projects\AuthenTication\AuthenTication\bin\AuthenTication.pdb
-A:\Asp.net Projects\AuthenTication\AuthenTication\obj\Debug\AuthenTication.dll
-A:\Asp.net Projects\AuthenTication\AuthenTication\obj\Debug\AuthenTication.pdb

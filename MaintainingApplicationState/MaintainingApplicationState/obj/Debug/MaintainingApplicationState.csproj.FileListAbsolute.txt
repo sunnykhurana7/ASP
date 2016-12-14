@@ -1,4 +1,0 @@
-A:\Asp.net Projects\MaintainingApplicationState\MaintainingApplicationState\bin\MaintainingApplicationState.dll
-A:\Asp.net Projects\MaintainingApplicationState\MaintainingApplicationState\bin\MaintainingApplicationState.pdb
-A:\Asp.net Projects\MaintainingApplicationState\MaintainingApplicationState\obj\Debug\MaintainingApplicationState.dll
-A:\Asp.net Projects\MaintainingApplicationState\MaintainingApplicationState\obj\Debug\MaintainingApplicationState.pdb

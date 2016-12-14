@@ -1,5 +1,0 @@
-A:\Asp.net Projects\SessionManagementComplete\SessionManagementComplete\bin\SessionManagementComplete.dll
-A:\Asp.net Projects\SessionManagementComplete\SessionManagementComplete\bin\SessionManagementComplete.pdb
-A:\Asp.net Projects\SessionManagementComplete\SessionManagementComplete\obj\Debug\SessionManagementComplete.dll
-A:\Asp.net Projects\SessionManagementComplete\SessionManagementComplete\obj\Debug\SessionManagementComplete.pdb
-A:\Asp.net Projects\SessionManagementComplete\SessionManagementComplete\obj\Debug\SessionManagementComplete.csprojResolveAssemblyReference.cache
