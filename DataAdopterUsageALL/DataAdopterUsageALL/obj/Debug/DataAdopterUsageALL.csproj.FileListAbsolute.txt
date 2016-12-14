@@ -1,0 +1,4 @@
+A:\Asp.net Projects\DataAdopterUsageALL\DataAdopterUsageALL\bin\DataAdopterUsageALL.dll
+A:\Asp.net Projects\DataAdopterUsageALL\DataAdopterUsageALL\bin\DataAdopterUsageALL.pdb
+A:\Asp.net Projects\DataAdopterUsageALL\DataAdopterUsageALL\obj\Debug\DataAdopterUsageALL.dll
+A:\Asp.net Projects\DataAdopterUsageALL\DataAdopterUsageALL\obj\Debug\DataAdopterUsageALL.pdb

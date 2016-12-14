@@ -1,0 +1,11 @@
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Database1.sdf
+A:\Asp.net Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config

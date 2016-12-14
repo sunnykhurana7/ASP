@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<student>
+  <studentdetails>
+    <name>Sunny</name>
+    <course>Master OF Computer Application</course>
+  </studentdetails>
+
+  <studentdetails>
+    <name>Sahil</name>
+    <course>Bachelors</course>
+  </studentdetails>
+</student> 

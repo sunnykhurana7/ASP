@@ -1,0 +1,4 @@
+A:\Asp.net Projects\XstensibleMarkupLanguuage\XstensibleMarkupLanguuage\bin\XstensibleMarkupLanguuage.dll
+A:\Asp.net Projects\XstensibleMarkupLanguuage\XstensibleMarkupLanguuage\bin\XstensibleMarkupLanguuage.pdb
+A:\Asp.net Projects\XstensibleMarkupLanguuage\XstensibleMarkupLanguuage\obj\Debug\XstensibleMarkupLanguuage.dll
+A:\Asp.net Projects\XstensibleMarkupLanguuage\XstensibleMarkupLanguuage\obj\Debug\XstensibleMarkupLanguuage.pdb
